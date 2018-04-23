@@ -1,9 +1,9 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
+title: Emberflix
+email: emberflix.editorial@gmail.com.com
 description: Some text about your blog.
-# baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+  url: "https://emberflix.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
