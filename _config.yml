@@ -2,23 +2,23 @@
 title: Emberflix
 email: emberflix.editorial@gmail.com.com
 description: Some text about your blog.
-baseurl: "/" # the subpath of your site, e.g. /blog
-  url: "https://emberflix.github.io" # the base hostname & protocol for your site
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://emberflix.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: Emberflix
+user_description: Editorial Emberflix.
+disqus_username: emberflix
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: emberflix
+facebook_username: emberflixblog
+twitter_username: emberflix
+instagram_username: emberflix
+linkedin_username: emberflix
+medium_username: emberflix
 
 # Build settings
 markdown: kramdown
@@ -32,11 +32,11 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Principal
     url: /
-  - title: About
+  - title: Sobre
     url: /about/
-  - title: Contact
+  - title: Contato
     url: /contact/
 
 # Exclude my node related stuff
