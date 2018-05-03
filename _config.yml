@@ -7,8 +7,8 @@ url: "https://emberflix.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Emberflix
-user_description: Editorial Emberflix.
+username: Emberflix Editorial
+user_description: Este post foi publicado, editado ou publicado pela equipe editorial do Emberflix.
 disqus_username: emberflix
 
 # Social Media
