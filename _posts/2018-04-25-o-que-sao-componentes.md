@@ -4,7 +4,7 @@ title: "O que são componentes?"
 date: 2018-04-25 23:00:59
 image: '/assets/img/cover/ember-components.png'
 description: 'Um guia rápido e prático de como criar e utilizar os componentes no Ember.js'
-category: ''
+category: 'Componentes'
 tags:
 twitter_text:
 introduction: 'Um guia rápido e prático de como criar e utilizar os componentes no Ember.js'
