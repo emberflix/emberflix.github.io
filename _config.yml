@@ -11,6 +11,8 @@ username: Emberflix Editorial
 user_description: Este post foi publicado, editado ou publicado pela equipe editorial do Emberflix.
 disqus_username: emberflix
 
+collections_dir: my_collections
+
 # Social Media
 # Remove the item if you don't need it
 github_username: emberflix

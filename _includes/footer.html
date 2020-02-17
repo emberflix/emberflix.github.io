@@ -20,6 +20,10 @@
         <svg><use xlink:href="#icon-linkedin"></use></svg>
       </a> {% endif %}
   </p>
+  <h1>Authors: </h1>
+  {% for user in site.authors %}
+    <h2>NOME: {{ author.name }}</h2>
+  {% endfor %}
   <ul>
     {% for link in site.links %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
